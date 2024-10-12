@@ -1,0 +1,49 @@
+- type: dataset
+  id: names_moth_first_female
+  values:
+  - Атропос # Acherontia atropos
+  - Бетулярия # Biston betularia
+  - Дафна # Daphnis
+  - Эврипта # Eurypteryx
+  - Эудриас # Eudryas
+  - Ирис # Salassa iris
+  - Лахеса # Acherontia lachesis
+  - Луна # Actias luna
+  - Лиманзия # Lymantria
+  - Мейпл # Dryocampa rubicunda, "Rosy Maple"
+  - Мима # Mimas
+  - Нефели # Nephele
+  - Роузи # Dryocampa rubicunda
+  - Скарлет # Cosmosoma myrodora, "Scarlet-bodied wasp moth"
+  - Стикс # Acherontia styx
+
+  # Other languages
+  - Авелина # Galician "moth" (avelaíña)
+  - Фалена # Italian "winter moth"
+  - Менодора # Greek "moon gift"
+  - Моли # Romanian "moth"
+  - Полилла # Spanish "moth"
+
+  # Myth and legend
+  - Алтея # Greek mythological figure
+  - Аврора # Roman goddess of the dawn
+  - Хелле # Greek mythological figure
+  - Селена # Greek goddess of the moon
+  - Никс # Greek goddess of the night
+
+  # Fun names
+  - Ангел
+  - Песочная
+  - Свобода
+
+  # Common names, filler
+  - Беатрикс
+  - Дейзи
+  - Сатурния
+  - Элизабет
+  - Люси
+  - Руби
+  - Сара
+  - Сиенна
+  - Уиллоу
+  - Зои
